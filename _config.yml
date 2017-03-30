@@ -22,6 +22,10 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: About
+    url: 'https://www.minipuff.co'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/78aec7d5-3eb0-47a7-bc6f-2f3691113c02.jpg
 content:
