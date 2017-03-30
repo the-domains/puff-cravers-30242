@@ -1,0 +1,51 @@
+typography_spectrum: 0.21588974818587303
+color:
+  brandColors:
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
+  brandStrength: 0.5587315319571644
+  lightness: 0.9807508741505444
+  saturation: 0.9573595735710114
+  rhythmicContrast: 0.32069015386514366
+github: true
+layout_spectrum: 0.792517026187852
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1800957-fe6c-48c3-8824-931089e50693.png
+name: Puff Cravers
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/78aec7d5-3eb0-47a7-bc6f-2f3691113c02.jpg
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e35cadb1-7c04-4d25-9e6b-9ae046b239bf.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/e35cadb1-7c04-4d25-9e6b-9ae046b239bf.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
